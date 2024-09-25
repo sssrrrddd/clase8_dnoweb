@@ -2,8 +2,10 @@
     {
         "nombre": "Ilustracion isometrica",
         "fecha": "2024",
+        "descricpion": "Ilustracion hecha para el biofab",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/056d497e-c9ff-4118-ac0e-3bc27ca774ba",
+        "fotos": "https://github.com/user-attachments/assets/056d497e-c9ff-4118-ac0e-3bc27ca774ba",
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -30,7 +32,7 @@
     {
         "nombre": "WHEEL&DEAL",
         "fecha": "2024",
-        "signo": "industrial",
+        "signo": "servicios",
         "foto": "https://github.com/user-attachments/assets/ba96c35c-afe2-4cc3-a64c-586ae643e7be",
         "github": "https://github.com/sssrrrddd"
     },
